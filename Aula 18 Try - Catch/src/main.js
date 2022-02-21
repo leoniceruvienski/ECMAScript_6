@@ -23,7 +23,6 @@ const exec = async () => {
     }
 }
 exec()
- //teste
     
 
 
