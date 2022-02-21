@@ -6,3 +6,5 @@ class Person {
         console.log('hello')
     }
 }
+
+//teste
