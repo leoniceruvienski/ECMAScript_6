@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 4,
+      "text": "ir para o mercado",
+      "done": true
+    },
+    {
+      "text": "hidratar o cabelo",
+      "done": true,
+      "id": 8
+    },
+    {
+      "text": "limpar tudo",
+      "done": true,
+      "id": 13
+    },
+    {
+      "text": "lavar a louça",
+      "done": true,
+      "id": 14
+    }
+  ]
+}
